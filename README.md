@@ -23,3 +23,13 @@ Example 3:
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
+
+#### MaximumSubArray
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum. 
+
+
+Example 1
+
+```Input: nums = [-1, 2, -4, 4, 10]
+Output: 14.
+```
